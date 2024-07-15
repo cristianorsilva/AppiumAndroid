@@ -29,7 +29,7 @@
     <!-- Seu accessKey no Browserstack-->
     <Parameter name="accessKeyBrowserStack" value="YOUR_ACCESSKEY" />
     <Parameter name="appiumVersionBrowserStack" value="2.4.1" />
-    <Parameter name="appBrowserStack" value="bs://e4975e807774e964da4f7c3e48b124fec0163e23" />
+    <Parameter name="appBrowserStack" value="bs://YOUR_UPLOADED_APK" />
     <Parameter name="platformVersionBrowserStack" value="13.0" />
     <Parameter name="deviceNameBrowserStack" value="Samsung Galaxy S23 Ultra" />
     <Parameter name="automationNameBrowserStack" value="uiautomator2" />
