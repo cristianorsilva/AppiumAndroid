@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "AppiumAndroid.sln",
+    "dotnet.unitTests.runSettingsPath": "AppiumAndroid\\android.runsettings"
+}

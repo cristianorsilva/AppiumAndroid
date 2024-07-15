@@ -1,0 +1,14 @@
+userName: cristianoribeiro_CFQ8xT
+accessKey: qwdx9Rc6Aqy29mFxUXwV
+app: bs://e4975e807774e964da4f7c3e48b124fec0163e23
+platforms:
+  - platformName: android
+    deviceName: Samsung Galaxy S22 Ultra
+    platformVersion: 12.0
+parallelsPerPlatform: 1
+browserstackLocal: true
+buildName: foradacaixa-build-1
+projectName: Fora da Caixa
+debug: true
+networkLogs: true
+consoleLogs: verbose

@@ -1,0 +1,69 @@
+{
+    "User": [
+      {
+        "Referencia": "USUÁRIO A",
+        "NomeCompleto": "João Carlos da Silva",
+        "NomeAbreviado": "João",
+        "CPF_CNPJ": "929.035.400-39",
+        "Banco": "CrediBank",
+        "Agencia": "0124-5",
+        "Conta": "12452-6",
+        "TipoConta": "Conta Corrente",
+        "Senha6digitos": "172839",
+        "Senha4digitos": "1728",
+        "Tarifa": "Isento",
+        "Telefone": "51997971687",
+        "ValorTransferencia": "R$ 16,85",
+        "CPF_Protegido": "***.035.400-**"
+      },
+      {
+        "Referencia": "USUÁRIO B",
+        "NomeCompleto": "Marcos Gomes de Freitas",
+        "NomeAbreviado": "Marcos",
+        "CPF_CNPJ": "050.209.090-17",
+        "Banco": "Ultrabank",
+        "Agencia": "0584-3",
+        "Conta": "75951-8",
+        "TipoConta": "Conta Corrente",
+        "Senha6digitos": "172839",
+        "Senha4digitos": "1728",
+        "Tarifa": "Isento",
+        "Telefone": "",
+        "ValorTransferencia": "R$ 30,54",
+        "CPF_Protegido": "***.209.090-**"
+      },
+      {
+        "Referencia": "USUÁRIO C",
+        "NomeCompleto": "Joana Ferreira Schimidt",
+        "NomeAbreviado": "Joana",
+        "CPF_CNPJ": "971.147.000-40",
+        "Banco": "Banco Solar",
+        "Agencia": "2258-4",
+        "Conta": "32542-3",
+        "TipoConta": "Conta Corrente",
+        "Senha6digitos": "172839",
+        "Senha4digitos": "1728",
+        "Tarifa": "Isento",
+        "Telefone": "",
+        "ValorTransferencia": "R$ 17,62",
+        "CPF_Protegido": "***.147.000-**"
+      },
+      {
+        "Referencia": "USUÁRIO LOGIN INVÁLIDO",
+        "NomeCompleto": "",
+        "NomeAbreviado": "",
+        "CPF_CNPJ": "719.282.308-22",
+        "Banco": "",
+        "Agencia": "",
+        "Conta": "",
+        "TipoConta": "",
+        "Senha6digitos": "172839",
+        "Senha4digitos": "1728",
+        "Tarifa": "",
+        "Telefone": "",
+        "ValorTransferencia": "",
+        "CPF_Protegido": ""
+      }
+    ]
+  }
+  

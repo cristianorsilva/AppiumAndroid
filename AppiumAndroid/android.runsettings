@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+
+  <TestRunParameters>
+    <Parameter name="udid" value="emulator-5554" />
+    <Parameter name="platformName" value="Android" />
+    <Parameter name="automationName" value="uiautomator2" />
+    <Parameter name="appActivity" value="a.foradacaixa.foradacaixaa.MainActivity" />
+    <Parameter name="appPackage" value="a.foradacaixa.foradacaixaa" />
+    <Parameter name="ipAddress" value="127.0.0.1" />
+    <Parameter name="port" value="4723" />
+    <Parameter name="noReset" value="false" />
+    <Parameter name="fullReset" value="false" />
+    <Parameter name="appPath" value="/Users/cristiano/Desktop/foradacaixa.apk" />
+    
+    <!--Environment (DEV or PROD)-->
+    <Parameter name="testEnvironment" value="DEV" />
+    <!-- Implicit wait (in seconds)-->
+    <Parameter name="implicitWait" value="5" />
+
+    <!-- Diretório raiz onde serão salvas evidências dos testes (em vídeo)-->
+    <Parameter name="evidencesRootDirectory" value ="C:\Users\Cristiano\Documents\Fora_da_caixa" />
+
+    <!-- https://www.browserstack.com/app-automate/capabilities -->
+    <!-- Se o teste é local ou via browserstack (use true para bs e false para local)-->
+    <Parameter name="isTestBS" value="true" />
+    <!-- Seu username no Browserstack-->
+    <Parameter name="usernameBrowserStack" value="YOUR_USERNAME" />
+    <!-- Seu accessKey no Browserstack-->
+    <Parameter name="accessKeyBrowserStack" value="YOUR_ACCESSKEY" />
+    <Parameter name="appiumVersionBrowserStack" value="2.4.1" />
+    <Parameter name="appBrowserStack" value="bs://e4975e807774e964da4f7c3e48b124fec0163e23" />
+    <Parameter name="platformVersionBrowserStack" value="13.0" />
+    <Parameter name="deviceNameBrowserStack" value="Samsung Galaxy S23 Ultra" />
+    <Parameter name="automationNameBrowserStack" value="uiautomator2" />
+    <Parameter name="platformNameBrowserStack" value="android" />
+    <Parameter name="uriBrowserStack" value="https://hub-cloud.browserstack.com/wd/hub/" />
+    <Parameter name="projectBrowserStack" value="Automação Fora da Caixa" />
+    <Parameter name="buildBrowserStack" value="Fora da Caixa - Android - 1.0" />
+    <Parameter name="timeOutBrowserStack" value="20" />
+    
+
+  </TestRunParameters>
+
+
+</RunSettings>
